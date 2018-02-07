@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+td, th {
+  text-align: center;
+}
+
+svg {
+  height: 150px;
+}
