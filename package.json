@@ -6,6 +6,7 @@
     "axios": "^0.17.1",
     "bootstrap": "3",
     "bootswatch": "^4.0.0",
+    "google-map-react": "^0.29.0",
     "lodash": "^4.17.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

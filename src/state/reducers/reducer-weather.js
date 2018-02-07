@@ -8,6 +8,7 @@ export default (state=[], action) =>  {
         return data;
       }
       const data = [action.payload.data, ...state];
+      console.log(data);
       return data;
   }
   return state;
