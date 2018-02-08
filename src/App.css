@@ -31,11 +31,7 @@ td, th {
   text-align: center;
 }
 
-svg {
-  height: 150px;
-}
-
 .google-map {
   height: 200px;
-  width: 200px;
+  width: 225px;
 }
